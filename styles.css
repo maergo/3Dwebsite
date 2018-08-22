@@ -1,0 +1,71 @@
+* {
+    font-size: 43;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #0D1321;
+    background-color: #FBFBF2;
+
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header {
+    font-size: 12px;
+    padding-top:
+}
+
+
+
+.box {
+    width: 250px;
+    height: 150px;
+    margin: 5px 10px;
+    padding: 20px;
+    border: 5px solid black;
+    float: left
+}
+
+.main {
+    float: left;
+}
+
+
+
+
+#nav {
+    margin-top: 10px;
+}
+
+#nav ul {
+    display: inline;
+    background-color: #0D1321;
+}
+
+#nav ul li {
+    display: inline;
+    text-align: left;
+}
+
+
+#nav ul li a {
+    font-size: 15px;
+    font-family: 'Bowlby One SC', cursive;
+    color: #0D1321;
+    text-decoration: none;
+    padding: 3px 5px;
+    ;
+}
+
+#nav ul li a:hover {
+    color: #305b9a;
+
+}
+
+h1 {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 20;
+}
+
+.sketchfab-embed-wrapper {
+    margin: 80px;
+}
+
